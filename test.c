@@ -3,8 +3,8 @@
 #include <furi_hal.h>
 #include <gui/gui.h>
 #include <input/input.h>
-#include "version.h"
-#include "tools.h"
+//#include "version.h"
+//#include "tools.h"
 
 // Uncomment to be able to make a screenshot
 //#define USB_HID_AUTOFIRE_SCREENSHOT
