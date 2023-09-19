@@ -28,7 +28,7 @@ bool btn_right_autofire = false;
 bool btn_select = false;
 bool ison = false;
 int btn_sel = 0; //     0 = off     1 = right     -1 = left
-int testtext = 3
+int testtext = 3;
 uint32_t autofire_delay = 10;
 
 static void usb_hid_autofire_render_callback(Canvas* canvas, void* ctx) {
